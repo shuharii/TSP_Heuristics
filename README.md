@@ -47,6 +47,9 @@ As explained in the grading section we will sort alltheprojects according to the
      a)The project is at most 3 PERSONsize. We encourage everybody to work in groups.
      b)You should implement the project using either C++or Javalanguage.For visualizations you can use Python.
      c)You can use libraries,but you mustimplement the heuristics by your
+     
+     
+[Cansel Samast]: <https://github.com/canselsa>
 
 
 
