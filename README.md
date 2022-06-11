@@ -1,8 +1,8 @@
-# TSP_Heuristics
-Formal Languages and Automata Theory Project
+# Traveling Salesman Problem Heuristics
+# Formal Languages and Automata Theory Project
 
-## This project developet with [Cansel Samast] and achieved 100/100 graded.
 
+# This project developet with [Cansel Samast] and achieved 100/100 graded.
 
 Traveling Salesman Problem (TSP) is an NP-complete problem and currently we do not have a  fast  algorithm  for  its  solution,  known  algorithms  are  exponential.  In  this project  you  are going to implement heuristic algorithms for the solution of TSP. Heuristic algorithms do not guarantee to return the optimal solution; however, they return good enough solutions in a reasonable time.
 
